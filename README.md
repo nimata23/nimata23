@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I am Nicole Matamoros. A senoir at Colby College. 
+## I am an East Asian Studies and Computer Science double major.
 <!--
 **nimata23/nimata23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
